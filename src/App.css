@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  width: 450px;
+  height: 250px;
+  padding: 1.5em;
+
+}
+
+.conten {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 20px;
+}
+
+.photo { 
+  width: 200px;
+  height: 300px;
+}
+
+@keyframes container {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: contanier infinite 20s linear;
+  }
+}
