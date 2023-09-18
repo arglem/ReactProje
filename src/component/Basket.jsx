@@ -7,7 +7,6 @@ export default function Basket(){
                 <div className="showBasket">
                     <h2>Basket</h2>
                 </div>
-
             </div>
         </div>
     )

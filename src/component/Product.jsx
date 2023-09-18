@@ -29,7 +29,7 @@ export default function Product({product,basket,setBasket}){
 
     function removeBasket(){
         const removeFind = basket.find(item => item.id === product.id)
-        removeFind.amount -=1
+        removeFind.amount -= 1
         if(removeFind.amount === 0)
         {
           setBasket([...basket.filter(item => item.id !== product.id)])  

@@ -1,4 +1,4 @@
-import './App.css'
+import './index.css'
 import Header from './component/Header'
 import Product from './component/Product'
 import productlist from './productlist.json'
@@ -20,7 +20,7 @@ function App() {
         <div className='productBoxes'>
             {
               productlist.map(product => (
-                <Product key = {product.id} basket= {basket} setBasket={setBasket} product={product} />
+                <Product key={product.id} basket= {basket} setBasket={setBasket} product={product} />
               ))
             }
         </div>

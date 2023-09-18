@@ -19,60 +19,6 @@
 
     {
         "id":3,
-        "name":"Biber",
-        "price":50,
-        "stock":3,
-        "category":"Sebze",
-        "img":"src/assets/img/biber.jpg"
-    },
-
-    {
-        "id":4,
-        "name":"Dereotu",
-        "price":50,
-        "stock":3,
-        "category":"Yeşillik",
-        "img":"src/assets/img/dereotu.jpg"
-    },
-
-    {
-        "id":5,
-        "name":"Domates",
-        "price":50,
-        "stock":3,
-        "category":"Sebze",
-        "img":"src/assets/img/domates.jpg"
-    },
-
-    {
-        "id":6,
-        "name":"Fasulye",
-        "price":50,
-        "stock":3,
-        "category":"Sebze",
-        "img":"src/assets/img/fasulye.jpg"
-    },
-
-    {
-        "id":7,
-        "name":"Fesleğen",
-        "price":50,
-        "stock":3,
-        "category":"Yeşillik",
-        "img":"src/assets/img/fesleğen.jpg"
-    },
-
-    {
-        "id":8,
-        "name":"Havuç",
-        "price":50,
-        "stock":3,
-        "category":"Sebze",
-        "img":"src/assets/img/havuç.jpg"
-    },
-
-    {
-        "id":9,
         "name":"Limon",
         "price":50,
         "stock":3,
@@ -81,16 +27,7 @@
     },
 
     {
-        "id":10,
-        "name":"Maydonoz",
-        "price":50,
-        "stock":3,
-        "category":"Yeşillik",
-        "img":"src/assets/img/maydonoz.jpg"
-    },
-
-    {
-        "id":11,
+        "id":4,
         "name":"Muz",
         "price":50,
         "stock":3,
@@ -99,25 +36,7 @@
     },
 
     {
-        "id":12,
-        "name":"Nane",
-        "price":50,
-        "stock":3,
-        "category":"Yeşillik",
-        "img":"src/assets/img/nane.jpg"
-    },
-
-    {
-        "id":13,
-        "name":"Patlıcan",
-        "price":50,
-        "stock":3,
-        "category":"Sebze",
-        "img":"src/assets/img/Patlıcan.jpg"
-    },
-
-    {
-        "id":14,
+        "id":5,
         "name":"Portakal",
         "price":50,
         "stock":3,
@@ -126,48 +45,124 @@
     },
 
     {
-        "id":15,
-        "name":"Reyhan",
-        "price":50,
-        "stock":3,
-        "category":"Yeşillik",
-        "img":"src/assets/img/reyhan.jpg"
-    },
-
-    {
-        "id":16,
-        "name":"Roka",
-        "price":50,
-        "stock":3,
-        "category":"Yeşillik",
-        "img":"src/assets/img/roka.jpg"
-    },
-
-    {
-        "id":17,
-        "name":"Salatalık",
-        "price":50,
-        "stock":3,
-        "category":"Sebze",
-        "img":"src/assets/img/salatalık.jpg"
-    },
-
-    {
-        "id":18,
-        "name":"Soğan",
-        "price":50,
-        "stock":3,
-        "category":"Sebze",
-        "img":"src/assets/img/soğan.jpg"
-    },
-
-    {
-        "id":19,
+        "id":6,
         "name":"Üzüm",
         "price":50,
         "stock":3,
         "category":"Meyve",
         "img":"src/assets/img/uzum.jpg"
-    }
+    },
 
+    {
+        
+        "id":7,
+        "name":"Domates",
+        "price":50,
+        "stock":3,
+        "category":"Sebze",
+        "img":"src/assets/img/domates.jpg"
+    },
+
+    {
+        "id":8,
+        "name":"Havuç",
+        "price":50,
+        "stock":3,
+        "category":"Sebze",
+        "img":"src/assets/img/havuc.jpg"
+    },
+
+    {
+
+        "id":9,
+        "name":"Biber",
+        "price":50,
+        "stock":3,
+        "category":"Sebze",
+        "img":"src/assets/img/biber.jpg"
+    },
+
+    {
+        "id":10,
+        "name":"Patlican",
+        "price":50,
+        "stock":3,
+        "category":"Sebze",
+        "img":"src/assets/img/patlican.jpg"
+    },
+    {
+        "id":11,
+        "name":"Salatalik",
+        "price":50,
+        "stock":3,
+        "category":"Sebze",
+        "img":"src/assets/img/salatalik.jpg"
+    },
+
+    {
+        "id":12,
+        "name":"Sogan",
+        "price":50,
+        "stock":3,
+        "category":"Sebze",
+        "img":"src/assets/img/sogan.jpg"
+    },
+
+    {
+       
+        "id":13,
+        "name":"Fasulye",
+        "price":50,
+        "stock":3,
+        "category":"Sebze",
+        "img":"src/assets/img/fasulye.jpg"
+    },
+
+    {
+        
+        "id":14,
+        "name":"Dereotu",
+        "price":50,
+        "stock":3,
+        "category":"Yeşillik",
+        "img":"src/assets/img/dereotu.jpg"
+    },
+
+    {
+        "id":15,
+        "name":"Nane",
+        "price":50,
+        "stock":3,
+        "category":"Yeşillik",
+        "img":"src/assets/img/nane.jpg"
+    },
+
+    {
+
+        "id":16,
+        "name":"Maydonoz",
+        "price":50,
+        "stock":3,
+        "category":"Yeşillik",
+        "img":"src/assets/img/maydonoz.jpg"
+    },
+
+    {
+        "id":17,
+        "name":"Fesleğen",
+        "price":50,
+        "stock":3,
+        "category":"Yeşillik",
+        "img":"src/assets/img/feslegen.jpg"
+    },
+
+    {
+        "id":18,
+        "name":"Reyhan",
+        "price":50,
+        "stock":3,
+        "category":"Yeşillik",
+        "img":"src/assets/img/reyhan.jpg"
+    }
+    
 ]
